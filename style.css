@@ -1,0 +1,336 @@
+body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    font-family: sans-serif;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+    
+}
+
+.nav_imge img{
+    height: 40px;
+   
+}
+.btn-al a{
+    font-weight: bold;
+    font-family: sans-serif;
+}
+ /*------------------body-----------------*/
+.whatspp_float{
+    position:fixed;
+    bottom:40px;
+    right: 20px;
+}
+
+.hometop{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+  }
+.topsectionw img{
+    width: 100%;
+    
+}
+.toppere{
+    margin-top: 15px;
+}
+.toppere h2{
+    text-align: center;
+}
+.toppere p{
+    margin-top: 25px;
+   padding-left: 60px;
+   padding-right: 60px;
+   text-align:justify;
+   font-weight:600;
+   font-style: normal;
+}
+.den{
+    font-size: xx-large;
+    color: rgb(255, 0, 0);
+}
+
+
+.container{
+    margin-bottom: 100px;
+    margin-top: 30px;
+    }
+    .card{
+        border: none;
+        border-radius: 10px;
+        box-shadow: 5px 5px 10px rgb(175, 79, 79) ;
+    }
+    .card p{
+        
+        text-align:justify;
+        padding-top: 30px;
+    }
+    
+    .card img{
+        width: 250px;
+       padding-left: 30px;
+        padding-top: 20px;
+    }
+    .card-title{
+        text-align: center;
+    }
+  .container h2{
+    text-align: center;
+    padding-bottom: 20px;
+
+  }   
+  .doincob img{
+    width: 300px;
+    height: 300px;
+  }
+
+  .row h1{
+padding-bottom: 30px;
+padding-top: 20px;
+
+}
+.tka{
+    text-align: justify;
+}
+.sidetik{
+    padding-left: 20px;
+}
+.row h5{
+padding-left: 30px;
+}
+#whyhire {
+    background: rgb(255, 255, 255);
+}
+#whyhire h4{
+    color: rgb(44, 89, 74);
+    text-align: center;
+    padding-bottom: 20px;
+}
+.whyhiress{
+  text-align: center;
+  font-size: medium;
+ font-weight: bold;
+}
+
+#whyhire img{
+    width: 100px;
+    height: 100px;
+}
+.whypd{
+    color: rgb(237, 156, 27);
+    font-weight:bold;
+}
+.dison h2{
+    color:rgb(33, 92, 72) ;
+}
+.dison p{
+    text-align: justify;
+}
+
+.workp h2{
+    color: rgb(33, 92, 72) ;
+    padding-top: 20px;
+}
+.workp img{
+    height: 300px;
+    width: 100%;
+    background-color: aliceblue;
+}
+.technic h2{
+    padding-top: 70px;
+    color: rgb(33, 92, 72) ;
+}
+.technic p{
+    text-align: center;
+}
+.technic img{
+    width: 130px;
+    height: 130px;
+    background-color: aliceblue;
+}
+/*-----footer---------*/
+.footer {
+    background: #000;
+    color: #8a8a8a;
+    font-size: 14px;
+   padding-top: 5%;
+   margin-bottom: -15%;
+   
+}
+.bota{
+    font-weight: bold;
+    
+}
+.footer p {
+    color: #8a8a8a;
+    text-align:left;
+}
+
+.footer h3 {
+    color: #fff;
+    margin-bottom: 20px;
+    text-align: left;
+}
+
+.footer-col-1,
+.footer-col-2,
+.footer-col-3
+ {
+    min-width: 250px;
+    margin-bottom: 20px;
+    color: #8a8a8a;
+    
+}
+
+.footer-col-1 {
+    flex-basis: 30%;
+    text-align:left;
+}
+
+.footer-col-2 {
+    flex: 1;
+    text-align:left;
+    
+}
+.footer-col-3
+{
+    flex-basis: 12%;
+    text-align: center;
+}
+.footer ul li{
+    padding: 5px 0px;
+}
+
+.nosty{
+    list-style-type: none;
+}
+
+.footer hr {
+    border: none;
+    background: #b5b5b5;
+    height: 1px;
+    margin: 20px 0;
+}
+
+.Happy {
+    text-align:center;
+}
+
+.fa-heart-o {
+    color: red;
+}
+
+.menu-icon {
+    width: 28px;
+    margin-left: 20px;
+    display: none;
+}
+   /*--------------about us-----------------*/
+  .abofone{
+    background-color: #ffffff;
+    padding: 5%;
+  }
+  .abofone h2{
+    color:rgb(247, 151, 99) ;
+    text-align: center;
+    font-style: inherit;
+    font-weight:bold ;
+  }
+  .abofone{
+    text-align: justify;
+    font-family: sans-serif;
+  }
+  .abh1c{
+    color:rgb(247, 151, 99) ;
+  }
+ ol li {
+    padding: 5px;
+    font-family: serif;
+    font-size: larger;
+ }
+/*------------------ecommerce website---------------------*/
+.ecomed{
+    background-color: #fff;
+    padding-left: 10%;
+    padding-top:5% ;
+}
+.ecomed h2{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: #f8a56e;
+    font-weight: bold;
+}
+
+.c{
+   
+    font-style: normal;
+    padding: 15px ;
+    padding-top: 30px;
+}
+.c li{
+    padding: 5px;
+    font-family: sans-serif;
+}
+.westmt img{
+    height: 250px;
+   width: 250px;
+   float: left;
+   padding: 10px;
+}
+.weim{
+    padding-left:15% ;
+    padding-bottom: 5%;
+}
+.weim::after{
+content: "";
+display: table;
+clear: both;
+}
+/****-----------webdesign------------*****/
+.webdis
+{
+    padding-top: 2%;
+    padding: 5%;
+    background-color: #fff;
+}
+.webdis h2{
+color: #f8a56e;
+text-align: center;
+}
+.webdis p{
+    text-align: justify;
+    font-family: sans-serif;
+}
+
+.aniwi {
+    width:100px;
+    height: 100px;
+}
+.deblot{
+    padding-top: 15px;
+   
+  text-align: center;
+  font-family: sans-serif;
+}
+.deblotet{
+    margin: 5%;
+}
+.deblotet h2{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #f8a56e;
+    text-align: center;
+    font-weight: bold;
+}
+.wevdt{
+padding-top: 2%;
+}
+.wevdt h2{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.wevdt p{
+    padding-top: 2px;
+    text-align: justify;
+}
+
